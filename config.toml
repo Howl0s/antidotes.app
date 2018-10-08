@@ -1,5 +1,5 @@
 # Page settings
-baseurl = ""
+baseurl = "antiodtes.app"
 title = "Antidotes"
 languageCode = "en-us"
 theme = "hugo-elate-theme"
